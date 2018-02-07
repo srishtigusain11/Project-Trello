@@ -1,0 +1,27 @@
+{
+  "name": "project-trello",
+  "version": "1.0.0",
+  "description": "basic trello functionality check",
+  "main": "conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srishtigusain11/Project-Trello.git"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "protractor": "^5.0.0",
+    "protractor-jasmine2-html-reporter":"^0.0.7"
+  },
+  "author": "Srishti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srishtigusain11/Project-Trello/issues"
+  },
+  "homepage": "https://github.com/srishtigusain11/Project-Trello#readme"
+}
